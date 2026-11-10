@@ -7,7 +7,7 @@ PC でもスマホでも、ブラウザですぐ遊べます。
 
 | 屋台 | ゲーム（クリックで遊ぶ） | お題 | 最新版 | ソース | 作った日 |
 |---|---|---|---|---|---|
-| A | [動作確認テスト](https://sinme52.github.io/Sandbox-Live-release/games/261110-A/latest/) | オーナー さん | v1 | 非公開 | 2026-11-10 |
+| A | [動作確認テスト](https://sinme52.github.io/Sandbox-Live-release/games/261110-A/latest/) | オーナー さん | v2 | 非公開 | 2026-11-10 |
 
 ---
 この README は配信ツールが自動で更新しています。

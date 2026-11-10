@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>動作確認テスト — 最新版へ移動中</title>
+<style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#14182b;color:#fff3dc;font-family:system-ui,sans-serif}a{color:#ffb54a}</style>
+</head><body>
+<p>最新版を読み込み中… <a id="go" href="../v1/">開かない場合はこちら</a></p>
+<script>
+fetch('../versions.json?t=' + Date.now(), { cache: 'no-store' })
+  .then(function (r) { return r.json(); })
+  .then(function (j) { location.replace('../v' + j.latest + '/'); })
+  .catch(function () { location.replace('../v1/'); });
+</script>
+</body></html>

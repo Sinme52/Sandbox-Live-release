@@ -1,0 +1,18 @@
+{
+  "games": {
+    "261110-A": {
+      "lane": "A",
+      "title": "動作確認テスト",
+      "requester": "オーナー",
+      "createdAt": "2026-11-10T11:49:33.333Z",
+      "latest": 1,
+      "updatedAt": "2026-11-10T12:27:02.014Z",
+      "sourcePublic": false,
+      "source": null
+    }
+  },
+  "title": "Sandbox Live!",
+  "subtitle": "〜コメントでつくるゲーム屋台〜",
+  "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
+  "updatedAt": "2026-11-10T12:27:02.014Z"
+}

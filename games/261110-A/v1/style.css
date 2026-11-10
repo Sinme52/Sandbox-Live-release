@@ -1,0 +1,56 @@
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  height: 100%;
+  background: #0f1222;
+  overflow: hidden;
+  touch-action: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+#stage {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+}
+canvas { display: block; image-rendering: auto; }
+
+/* スマホ用ボタン */
+.pad {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 max(16px, env(safe-area-inset-right)) max(16px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left));
+  pointer-events: none;
+}
+.pad[hidden] { display: none; }
+.pad button {
+  pointer-events: auto;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.35);
+  background: rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.85);
+  font: 700 22px system-ui, sans-serif;
+  touch-action: none;
+}
+.pad button.held { background: rgba(255, 181, 74, 0.55); }
+.pad button[hidden] { visibility: hidden; display: block; }
+.dpad {
+  display: grid;
+  grid-template-columns: repeat(3, 64px);
+  grid-template-rows: repeat(3, 64px);
+  gap: 2px;
+}
+.dpad [data-key='up'] { grid-area: 1 / 2; }
+.dpad [data-key='left'] { grid-area: 2 / 1; }
+.dpad [data-key='right'] { grid-area: 2 / 3; }
+.dpad [data-key='down'] { grid-area: 3 / 2; }
+.buttons .action { width: 84px; height: 84px; font-size: 28px; margin-bottom: 40px; }

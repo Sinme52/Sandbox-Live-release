@@ -7,7 +7,7 @@ PC でもスマホでも、ブラウザですぐ遊べます。
 
 | 屋台 | ゲーム（クリックで遊ぶ） | お題 | 最新版 | ソース | 作った日 |
 |---|---|---|---|---|---|
-| B | [F-ZEROのようなゲームの作成](https://sinme52.github.io/Sandbox-Live-release/games/261115-B/latest/) | オーナー さん | v1 | 非公開 | 2026-11-15 |
+| B | [F-ZEROのようなゲームの作成](https://sinme52.github.io/Sandbox-Live-release/games/261115-B/latest/) | オーナー さん | v2 | 非公開 | 2026-11-15 |
 | A | [動作確認テスト](https://sinme52.github.io/Sandbox-Live-release/games/261110-A/latest/) | オーナー さん | v2 | 非公開 | 2026-11-10 |
 
 ---

@@ -15,8 +15,8 @@
       "title": "F-ZEROのようなゲームの作成",
       "requester": "オーナー",
       "createdAt": "2026-11-15T13:12:33.416Z",
-      "latest": 1,
-      "updatedAt": "2026-11-15T13:33:06.180Z",
+      "latest": 2,
+      "updatedAt": "2026-11-15T13:46:23.689Z",
       "sourcePublic": false,
       "source": null
     }
@@ -24,5 +24,5 @@
   "title": "Sandbox Live!",
   "subtitle": "〜コメントでつくるゲーム屋台〜",
   "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
-  "updatedAt": "2026-11-15T13:33:06.180Z"
+  "updatedAt": "2026-11-15T13:46:23.689Z"
 }

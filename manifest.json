@@ -39,10 +39,20 @@
       "updatedAt": "2026-11-17T13:46:13.373Z",
       "sourcePublic": false,
       "source": null
+    },
+    "261117-C": {
+      "lane": "C",
+      "title": "雪だるま × ジャンプアクション × 画面が回転する",
+      "requester": "",
+      "createdAt": "2026-11-17T13:55:08.280Z",
+      "latest": 1,
+      "updatedAt": "2026-11-17T14:18:41.816Z",
+      "sourcePublic": false,
+      "source": null
     }
   },
   "title": "Sandbox Live!",
   "subtitle": "〜コメントでつくるゲーム屋台〜",
   "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
-  "updatedAt": "2026-11-17T13:46:13.373Z"
+  "updatedAt": "2026-11-17T14:18:41.816Z"
 }

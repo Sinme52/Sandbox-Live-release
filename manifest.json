@@ -29,10 +29,20 @@
       "updatedAt": "2026-11-17T13:18:16.928Z",
       "sourcePublic": false,
       "source": null
+    },
+    "261117-B": {
+      "lane": "B",
+      "title": "恐竜 × 迷路 × ボスしかいない",
+      "requester": "",
+      "createdAt": "2026-11-17T13:32:17.051Z",
+      "latest": 1,
+      "updatedAt": "2026-11-17T13:46:13.373Z",
+      "sourcePublic": false,
+      "source": null
     }
   },
   "title": "Sandbox Live!",
   "subtitle": "〜コメントでつくるゲーム屋台〜",
   "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
-  "updatedAt": "2026-11-17T13:18:16.928Z"
+  "updatedAt": "2026-11-17T13:46:13.373Z"
 }

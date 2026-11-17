@@ -19,10 +19,20 @@
       "updatedAt": "2026-11-15T13:46:23.689Z",
       "sourcePublic": false,
       "source": null
+    },
+    "261117-A": {
+      "lane": "A",
+      "title": "おばけ × スポーツ × ボタン1つだけ",
+      "requester": "",
+      "createdAt": "2026-11-17T13:03:03.586Z",
+      "latest": 1,
+      "updatedAt": "2026-11-17T13:18:16.928Z",
+      "sourcePublic": false,
+      "source": null
     }
   },
   "title": "Sandbox Live!",
   "subtitle": "〜コメントでつくるゲーム屋台〜",
   "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
-  "updatedAt": "2026-11-15T13:46:23.689Z"
+  "updatedAt": "2026-11-17T13:18:16.928Z"
 }

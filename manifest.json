@@ -65,10 +65,21 @@
       "updatedAt": "2026-11-18T12:59:25.482Z",
       "sourcePublic": false,
       "source": null
+    },
+    "261118-B": {
+      "lane": "B",
+      "title": "たこ焼き × クイズ × 分身する",
+      "requester": "",
+      "roulette": true,
+      "createdAt": "2026-11-18T13:08:50.621Z",
+      "latest": 1,
+      "updatedAt": "2026-11-18T13:44:43.674Z",
+      "sourcePublic": false,
+      "source": null
     }
   },
   "title": "Sandbox Live!",
   "subtitle": "〜コメントでつくるゲーム屋台〜",
   "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
-  "updatedAt": "2026-11-18T12:59:25.482Z"
+  "updatedAt": "2026-11-18T13:44:43.674Z"
 }

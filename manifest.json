@@ -76,10 +76,21 @@
       "updatedAt": "2026-11-18T14:19:43.385Z",
       "sourcePublic": false,
       "source": null
+    },
+    "261118-C": {
+      "lane": "C",
+      "title": "塊魂的な色んなオブジェクトを巻き込んでいくゲーム",
+      "requester": "視聴者様",
+      "roulette": false,
+      "createdAt": "2026-11-18T13:46:19.241Z",
+      "latest": 1,
+      "updatedAt": "2026-11-18T14:22:06.143Z",
+      "sourcePublic": false,
+      "source": null
     }
   },
   "title": "Sandbox Live!",
   "subtitle": "〜コメントでつくるゲーム屋台〜",
   "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
-  "updatedAt": "2026-11-18T14:19:43.385Z"
+  "updatedAt": "2026-11-18T14:22:06.143Z"
 }

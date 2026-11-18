@@ -8,7 +8,8 @@
       "latest": 2,
       "updatedAt": "2026-11-10T12:33:50.479Z",
       "sourcePublic": false,
-      "source": null
+      "source": null,
+      "roulette": false
     },
     "261115-B": {
       "lane": "B",
@@ -18,7 +19,8 @@
       "latest": 2,
       "updatedAt": "2026-11-15T13:46:23.689Z",
       "sourcePublic": false,
-      "source": null
+      "source": null,
+      "roulette": false
     },
     "261117-A": {
       "lane": "A",
@@ -28,7 +30,8 @@
       "latest": 1,
       "updatedAt": "2026-11-17T13:18:16.928Z",
       "sourcePublic": false,
-      "source": null
+      "source": null,
+      "roulette": true
     },
     "261117-B": {
       "lane": "B",
@@ -38,7 +41,8 @@
       "latest": 1,
       "updatedAt": "2026-11-17T13:46:13.373Z",
       "sourcePublic": false,
-      "source": null
+      "source": null,
+      "roulette": true
     },
     "261117-C": {
       "lane": "C",
@@ -48,11 +52,23 @@
       "latest": 1,
       "updatedAt": "2026-11-17T14:18:41.816Z",
       "sourcePublic": false,
+      "source": null,
+      "roulette": true
+    },
+    "261118-A": {
+      "lane": "A",
+      "title": "郵便屋さん × 放置ゲーム × ボタン1つだけ",
+      "requester": "",
+      "roulette": true,
+      "createdAt": "2026-11-18T12:39:51.401Z",
+      "latest": 1,
+      "updatedAt": "2026-11-18T12:59:25.482Z",
+      "sourcePublic": false,
       "source": null
     }
   },
   "title": "Sandbox Live!",
   "subtitle": "〜コメントでつくるゲーム屋台〜",
   "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
-  "updatedAt": "2026-11-17T14:18:41.816Z"
+  "updatedAt": "2026-11-18T12:59:25.482Z"
 }

@@ -72,8 +72,8 @@
       "requester": "",
       "roulette": true,
       "createdAt": "2026-11-18T13:08:50.621Z",
-      "latest": 1,
-      "updatedAt": "2026-11-18T13:44:43.674Z",
+      "latest": 2,
+      "updatedAt": "2026-11-18T14:19:43.385Z",
       "sourcePublic": false,
       "source": null
     }
@@ -81,5 +81,5 @@
   "title": "Sandbox Live!",
   "subtitle": "〜コメントでつくるゲーム屋台〜",
   "repoUrl": "https://github.com/Sinme52/Sandbox-Live-release",
-  "updatedAt": "2026-11-18T13:44:43.674Z"
+  "updatedAt": "2026-11-18T14:19:43.385Z"
 }

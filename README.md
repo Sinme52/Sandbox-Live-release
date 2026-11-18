@@ -7,7 +7,7 @@ PC でもスマホでも、ブラウザですぐ遊べます。
 
 | 屋台 | ゲーム（クリックで遊ぶ） | 提案者 | 最新版 | ソース | 作った日 |
 |---|---|---|---|---|---|
-| B | [たこ焼き × クイズ × 分身する](https://sinme52.github.io/Sandbox-Live-release/games/261118-B/latest/) | 🎰 ルーレット | v1 | 非公開 | 2026-11-18 |
+| B | [たこ焼き × クイズ × 分身する](https://sinme52.github.io/Sandbox-Live-release/games/261118-B/latest/) | 🎰 ルーレット | v2 | 非公開 | 2026-11-18 |
 | A | [郵便屋さん × 放置ゲーム × ボタン1つだけ](https://sinme52.github.io/Sandbox-Live-release/games/261118-A/latest/) | 🎰 ルーレット | v1 | 非公開 | 2026-11-18 |
 | C | [雪だるま × ジャンプアクション × 画面が回転する](https://sinme52.github.io/Sandbox-Live-release/games/261117-C/latest/) | 🎰 ルーレット | v1 | 非公開 | 2026-11-17 |
 | B | [恐竜 × 迷路 × ボスしかいない](https://sinme52.github.io/Sandbox-Live-release/games/261117-B/latest/) | 🎰 ルーレット | v1 | 非公開 | 2026-11-17 |
